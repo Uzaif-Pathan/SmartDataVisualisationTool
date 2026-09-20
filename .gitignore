@@ -1,0 +1,9 @@
+build/
+output/
+*.o
+*.a
+*.so
+*.log
+.cache/
+.idea/
+.vscode/
